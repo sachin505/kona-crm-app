@@ -4,10 +4,9 @@ function Login() {
     return (
         <div>
             <div className="row">
-                <div className="col">
-                </div>
+                <div className="col"></div>
             <div className="col">
-                    <h3>Konaldigital.ai</h3>
+                    <h3>Konadigital.ai</h3>
                         <br></br>
                 <div className="loginbox">
                     <h5>SignIn</h5>
@@ -27,8 +26,7 @@ function Login() {
                     </div>
                 </div>
             </div>
-                <div className="col">
-                </div>
+                <div className="col"></div>
             </div>
         </div>
     )
