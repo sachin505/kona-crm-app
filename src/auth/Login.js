@@ -18,7 +18,7 @@ function Login() {
                     </div>
                         <br/><br/><br/><br/>
                     <div class="input-field col s12">
-                        <input  id="password" type="text" />
+                        <input  id="password" type="password" />
                         <label class="active" for="password">Password</label>
                     </div>
                     <br/><br/><br/><br/><br/><br/>
