@@ -9,7 +9,7 @@ function Register() {
         <div className="col">
             <h3>Konadigital.ai</h3>
                 <br></br>
-        <div className="loginbox">
+        <div className="registerbox">
             <h5>Register</h5>
                 <br /><br />
             <div className="input-field col s12">
@@ -26,7 +26,7 @@ function Register() {
                 <input  id="password" type="password" />
                 <label className="active" for="password">Password</label>
             </div>
-            <br/><br/><br/><br/><br/><br/>
+            <br/><br/><br/><br/>
             <div className="input-field col s12">
             <button  className="waves-effect waves-light btn-large red">Register</button>
             </div>
