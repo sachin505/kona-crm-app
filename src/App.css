@@ -1,13 +1,10 @@
-* {
-  margin: 0 !important;
-}
 .App {
   text-align: center;
   color: white;
 }
-/* .buttons {
+.buttons {
   padding-top: 100px;
   display: flex;
   justify-content: space-evenly;
   align-items: center;
-} */
+}
